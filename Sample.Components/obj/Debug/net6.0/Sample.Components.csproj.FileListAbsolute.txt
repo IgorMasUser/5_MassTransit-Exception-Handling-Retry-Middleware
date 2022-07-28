@@ -1,0 +1,75 @@
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\bin\Debug\net6.0\Sample.Components.deps.json
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\bin\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfo.cs
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CopyComplete
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\MassTransit Starting with Mediator\MassTransit Starting with Mediator\Sample.Components\obj\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\bin\Debug\net6.0\Sample.Components.deps.json
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\bin\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfo.cs
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CopyComplete
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\2_Moving from Mediator to RabbitMQ\Moving from Mediator to RabbitMQ\Sample.Components\obj\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\bin\Debug\net6.0\Sample.Components.deps.json
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\bin\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfo.cs
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CopyComplete
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\4_MassTransit State Machine Sagas using Automatonymous\MassTransit State Machine Sagas using Automatonymous\Sample.Components\obj\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\4_State Machine\Sample.Components\bin\Debug\net6.0\Sample.Components.deps.json
+E:\Projects\MessageBus\4_State Machine\Sample.Components\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\4_State Machine\Sample.Components\bin\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\4_State Machine\Sample.Components\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\4_State Machine\Sample.Components\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\4_State Machine\Sample.Components\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfo.cs
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CopyComplete
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\4_State Machine\Sample.Components\obj\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\bin\Debug\net6.0\Sample.Components.deps.json
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\bin\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\bin\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\bin\Debug\net6.0\Sample.Components.pdb
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\bin\Debug\net6.0\Sample.Contracts.dll
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\bin\Debug\net6.0\Sample.Contracts.pdb
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.AssemblyReference.cache
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfoInputs.cache
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.AssemblyInfo.cs
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CoreCompileInputs.cache
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.csproj.CopyComplete
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.dll
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\ref\Sample.Components.dll
+E:\Projects\MessageBus\5_MassTransit Exception Handling, Retry Middleware\Sample.Components\obj\Debug\net6.0\Sample.Components.pdb
